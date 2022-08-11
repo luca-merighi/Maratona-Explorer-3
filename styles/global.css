@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f1f2f3;
+}
+
+main {
+    margin: -3rem 2rem 3rem 2rem;
+ 
+    background-color: #fff;
+    padding: 1.5rem;
+
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+h1, h3, h4, .price {
+    font-family: 'Roboto Serif', serif;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+@media(min-width: 600px) {
+    main {
+        max-width: 480px;
+        margin: -3rem auto 3rem auto;
+    }
+}

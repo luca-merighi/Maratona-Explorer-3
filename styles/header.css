@@ -1,0 +1,24 @@
+.header {
+    background-color: #dfe4ea;
+    padding: 1.5rem 1.5rem 5rem 1.5rem;
+
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+.header .logo {
+    color: #2D2C2A;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.header .logo span {
+    color: #995000;
+}
+
+.header p {
+    color: #2D2C2A;
+    opacity: 0.75;
+}

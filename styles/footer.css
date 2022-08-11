@@ -1,0 +1,19 @@
+.footer {
+    padding: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer p {
+    color: #2D2C2A;
+}
+
+.footer p img {
+    width: 1.875rem;
+}
+
+.footer p span {
+    color: #995000;
+    font-weight: 700;
+}

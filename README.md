@@ -10,4 +10,4 @@ Esta página da web é um cardápio para um restaurante.
 </div>
 <br/>
 
-### [Link para a Página]( "Rocket.Coffee")
+### [Link para a Página](https://luca-merighi.github.io/Maratona-Explorer-3/ "Rocket.Coffee")
